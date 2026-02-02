@@ -1,8 +1,12 @@
 ## Hi, I am Preetansha Kesharwani👋
-## 🔭 I’m currently working on Karate, NewMan, Cypress
+🔭 I’m currently working on Karate, NewMan, Cypress
+
 🌱 I’m currently learning Karate API Automation, Cypress, Newman
+
 👯 I’m looking to collaborate on API testing, Automation Framework
+
 💬 Ask me about  POSTMAN, Newman, APIs(GRAPHQL , REST)
+
 📫 How to reach me: preetanshakesharwani@gmail.com
 
 <!--
